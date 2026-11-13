@@ -1,102 +1,127 @@
 
 <div align="center">
-  <img
-    src="github-banner.png"
-    alt="Gangana Vinaya Chandrika Reddy | AI/ML and Agentic AI"
-    width="100%"
-    style="display: block; max-width: 100%; height: auto;"
-  />
+
+<img src="AI_ML%20Portfolio%20Dashboard.png" width="100%" alt="AI ML and Agentic AI Portfolio Cover" />
+
 </div>
 
-# Gangana Vinaya Chandrika Reddy
+<h1 align="center">Gangana Vinaya Chandrika Reddy</h1>
 
-### AI/ML Engineer Aspirant | Computer Science Engineering Student
-
-Building intelligent solutions with Python, Machine Learning, Agentic AI and Cloud Technology.
+<h3 align="center">
+AI/ML Engineer Aspirant | Computer Science Engineering Student
+</h3>
 
 <p align="center">
-  <a href="https://vinaya-chandrika.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/vinaya-chandrika-gangana-200880363/">LinkedIn</a> •
-  <a href="https://github.com/vinaya18-2006">GitHub</a>
+Building intelligent solutions with Python, Machine Learning, Agentic AI and Cloud Technology.
+</p>
+
+<p align="center">
+<a href="https://vinaya-chandrika.vercel.app/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/vinaya-chandrika-gangana-200880363/">LinkedIn</a> •
+<a href="https://github.com/vinaya18-2006">GitHub</a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Vinaya**, a Computer Science Engineering student graduating in 2027. I enjoy building practical software solutions and exploring how Artificial Intelligence can solve real-world problems.
+Hello! I'm **Vinaya**, a Computer Science Engineering student graduating in 2027.
 
-- 🤖 Exploring Artificial Intelligence, Machine Learning and Agentic AI.
-- 🧠 Learning Retrieval-Augmented Generation (RAG) and multi-agent workflows.
+I'm passionate about Artificial Intelligence, Machine Learning and developing intelligent software applications that solve real-world problems.
+
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🧠 Learning Agentic AI, RAG and multi-agent systems.
 - 🐍 Developing applications using Python.
-- ☁️ Interested in Cloud Computing and Data Engineering.
-- 🌱 Continuously improving my problem-solving and software engineering skills.
+- ☁️ Exploring AWS, Azure and Cloud Computing.
+- 📊 Interested in Data Engineering and Analytics.
+- 🚀 Focused on continuous learning and practical project development.
+
+---
 
 ## 🛠️ Technical Skills
 
 | Category | Technologies |
 |---|---|
-| Programming | Python, C++, SQL |
+| Programming Languages | Python, C++, SQL |
 | AI & Machine Learning | Machine Learning, Scikit-learn, Pandas, NumPy, Computer Vision |
 | Generative AI | Agentic AI, RAG |
-| Cloud & Data | AWS, Azure Data Factory, Azure SQL |
-| Analytics | Power BI |
-| Development Tools | Streamlit, Git, GitHub, Linux, Postman |
+| Cloud Technologies | AWS, Azure |
+| Data Engineering | Azure Data Factory, Azure SQL |
+| Data Analytics | Power BI |
+| Frameworks | Streamlit |
+| Developer Tools | Git, GitHub, Linux, Postman |
+
+---
 
 ## 🚀 Featured Projects
 
 ### 1. Agentic Churn Intelligence
 
-An AI/ML project focused on customer churn prediction, evidence-based explanations and retention recommendations using an agentic workflow.
+An AI/ML-based customer intelligence platform designed to predict customer churn risk, investigate supporting evidence and generate retention recommendations using agent-based workflows.
 
-**Technologies:** Python · Machine Learning · RAG · Agentic AI
+**Technologies:** Python | Machine Learning | RAG | Agentic AI
 
-[View Repository](https://github.com/vinaya18-2006/Agentic-Churn-Intelligence)
+[View Project Repository](https://github.com/vinaya18-2006/Agentic-Churn-Intelligence)
 
 ### 2. CareerPilot AI
 
-A job discovery and matching application that helps users explore relevant job opportunities and review resume-to-job alignment.
+A Python-based job discovery and matching platform that helps users discover relevant job opportunities and understand resume-to-job alignment.
 
-**Technologies:** Python · Streamlit · Pandas · NumPy · Scikit-learn
+**Technologies:** Python | Streamlit | Pandas | NumPy | Scikit-learn
 
-[View Repository](https://github.com/vinaya18-2006/CareerPilot-AI) • [Live Application](https://careerpilot-ai-7e3qphr8mnubs6ghj6.streamlit.app/)
+[GitHub Repository](https://github.com/vinaya18-2006/CareerPilot-AI) | [Live Application](https://careerpilot-ai-7e3qphr8mnubs6ghj6.streamlit.app/)
 
 ### 3. Azure ETL Pipeline
 
-A data engineering project demonstrating data extraction, transformation and loading using Azure services.
+A cloud-based data engineering project demonstrating data extraction, transformation and loading using Azure services.
 
-**Technologies:** Azure Data Factory · Azure SQL · Power BI · Python · SQL
+**Technologies:** Azure Data Factory | Azure SQL | Power BI | Python | SQL
 
-[View Repository](https://github.com/vinaya18-2006/azure-etl-pipeline)
+[View Project Repository](https://github.com/vinaya18-2006/azure-etl-pipeline)
+
+---
 
 ## 📚 Currently Learning
 
-- Machine Learning model development and evaluation
-- Agentic AI workflows and RAG architectures
+- Machine Learning Algorithms and Model Evaluation
+- Agentic AI and Multi-Agent Architectures
+- Retrieval-Augmented Generation (RAG)
 - Data Structures and Algorithms
-- Cloud-based AI applications
-- Software Engineering and System Design
+- Cloud-Based AI Applications
+- Software Engineering Fundamentals
+
+---
 
 ## 🎓 Education
 
-**B.Tech – Computer Science and Engineering**
+**Bachelor of Technology – Computer Science and Engineering**
 
 Vivekanandha College of Engineering for Women
 
 Expected Graduation: **2027**
 
-## 🤝 Connect With Me
+---
 
-- **Portfolio:** https://vinaya-chandrika.vercel.app/
-- **LinkedIn:** https://www.linkedin.com/in/vinaya-chandrika-gangana-200880363/
-- **GitHub:** https://github.com/vinaya18-2006
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/vinaya-chandrika-gangana-200880363/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/vinaya18-2006">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+<a href="https://vinaya-chandrika.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=vercel" />
+</a>
+</p>
 
 ---
 
 <div align="center">
 
-### ✨ Dream • Build • Innovate
+### ✨ DREAM • BUILD • INNOVATE
 
-*Learn · Build · Experiment · Improve*
+*Learning today. Building tomorrow.*
 
 </div>
