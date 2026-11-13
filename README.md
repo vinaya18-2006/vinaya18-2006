@@ -1,7 +1,11 @@
+
 <div align="center">
-
-<img src="github-banner.png" width="100%" alt="Gangana Vinaya Chandrika Reddy - AI/ML and Agentic AI" />
-
+  <img
+    src="github-banner.png"
+    alt="Gangana Vinaya Chandrika Reddy | AI/ML and Agentic AI"
+    width="100%"
+    style="display: block; max-width: 100%; height: auto;"
+  />
 </div>
 
 # Gangana Vinaya Chandrika Reddy
