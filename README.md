@@ -9,8 +9,11 @@
 </div>
 
 <br/>
+<div align="center">
 
-<img src="profile-photo-original.jpg" width="160" alt="Vinaya Chandrika Profile Photo" />
+<img src="profile-photo-original.jpg" width="160" alt="Vinaya Chandrika"/>
+
+</div>
 
 # Gangana Vinaya Chandrika Reddy
 
